@@ -1,6 +1,6 @@
 {
   "name": "serverozzo",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "> TODO: description",
   "author": "Renato Pozzi <renato.pozzi.dev@gmail.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@my-project/library": "^0.1.0"
+    "@my-project/library": "^0.2.0"
   }
 }
