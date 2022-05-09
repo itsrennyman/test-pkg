@@ -1,0 +1,19 @@
+{
+  "name": "@my-project/library",
+  "version": "0.1.0",
+  "description": "> TODO: description",
+  "author": "Renato Pozzi <renato.pozzi.dev@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/library.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
